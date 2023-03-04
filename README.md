@@ -19,3 +19,11 @@ Create a CSV file of all the owners of an NFT and how many NTFs they own.
 ```shell
 $ node index.mjs snapshot 0xCONTRACT_ADDRESS
 ```
+
+## Contribute
+
+[Pull Requests](https://github.com/sprice/vveb3-tools/pulls) welcome.
+
+## Suggest a Tool
+
+Please feel free to [suggest a tool](https://github.com/sprice/vveb3-tools/discussions/categories/ideas) you'd like to see.
