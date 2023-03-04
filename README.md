@@ -11,6 +11,8 @@
 
 ### Snapshot
 
+Create a CSV file of all the owners of an NFT and how many NTFs they own.
+
 ```shell
 $ node index.mjs snapshot 0xCONTRACT_ADDRESS
 ```
